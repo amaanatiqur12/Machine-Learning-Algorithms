@@ -12,4 +12,4 @@
 
 
 
-![Linear Regression](https://github.com/user-attachments/assets/a3339c68-3b3c-429d-863e-19144bfb38fe)
+![Linear Regression](https://github.com/user-attachments/assets/a37ed51d-f60f-405d-9e65-a16ddcca0c46)
