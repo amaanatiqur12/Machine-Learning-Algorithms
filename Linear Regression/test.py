@@ -31,6 +31,9 @@ for x in range(len(predictions)):
     print(predictions[x], x_test[x], y_test[x])
 
 
+
+Output:
+
 """
 Accuracy =>  0.7784638497923726
 Coefficient: 
