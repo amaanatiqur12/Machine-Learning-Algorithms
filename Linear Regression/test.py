@@ -32,9 +32,11 @@ for x in range(len(predictions)):
 
 
 
-Output:
+
 
 """
+Output:
+
 Accuracy =>  0.7784638497923726
 Coefficient: 
  [ 0.15376169  0.98377844 -0.19966673 -0.29971716  0.03524388]
