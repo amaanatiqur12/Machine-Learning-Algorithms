@@ -21,7 +21,8 @@ Note: The examples above are done in 2D space. In reality most of our best fit l
 
 ---
 
-![download](https://github.com/user-attachments/assets/9c64068e-83a4-483c-a6bc-1f0ffeb9badc)
+![image](https://github.com/user-attachments/assets/43bed061-9f02-4115-a37b-3b145d6aaa8c)
+
 
 
 
