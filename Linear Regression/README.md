@@ -19,3 +19,11 @@ Once the computer has generated this line it will use it to predict certain valu
 
 Note: The examples above are done in 2D space. In reality most of our best fit lines will span across multiple dimensions and therefore will have multiple slope values.
 
+---
+
+![download](https://github.com/user-attachments/assets/9c64068e-83a4-483c-a6bc-1f0ffeb9badc)
+
+
+
+The least squares method is a mathematical approach used in linear regression to find the best-fitting line through a set of data points. The goal is to minimize the sum of the squared differences between the observed values and the values predicted by the linear model.
+
