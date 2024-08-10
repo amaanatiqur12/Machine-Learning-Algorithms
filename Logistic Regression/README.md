@@ -8,11 +8,12 @@ Classification is a type of machine learning task where the goal is to assign in
 
 The key difference between binary classification and multiclass classification lies in the number of classes or categories the model predicts:
 
-Binary Classification:
+**Binary Classification:
 
-Definition: Involves predicting one of two possible classes.
+**Definition: Involves predicting one of two possible classes.**
 Example: Classifying emails as either "spam" or "not spam."
 Output: The model outputs one of two possible labels.
+
 Multiclass Classification:
 
 Definition: Involves predicting one of three or more possible classes.
