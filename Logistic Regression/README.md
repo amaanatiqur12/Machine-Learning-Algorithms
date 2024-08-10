@@ -34,4 +34,11 @@ In summary, logistic regression helps you decide between different categories by
 ![image](https://github.com/user-attachments/assets/55abc22e-82e1-4731-a25f-d80d5bb94caa)
 
 
+Features 𝑋 are the input values or attributes that are fed into the model to predict the outcome. For example, in a dataset predicting house prices, features might include the number of bedrooms, the size of the house, and the location.
+
+
+Thed is specific to binary logistic regression. For multiclass classification, a different approach is used, known as multinomial logistic regression or softmax regression. 
+
+![image](https://github.com/user-attachments/assets/95aed76f-30db-4fc1-8348-93132080edd4)
+
 
