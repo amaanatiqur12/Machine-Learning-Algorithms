@@ -16,8 +16,8 @@ Binary Classification:
 
 Multiclass Classification:
 
--Definition: Involves predicting one of three or more possible classes.
--Example: Classifying types of animals into "cat," "dog," or "rabbit."
--Output: The model outputs one label from a set of multiple categories.
+- Definition: Involves predicting one of three or more possible classes.
+- Example: Classifying types of animals into "cat," "dog," or "rabbit."
+- Output: The model outputs one label from a set of multiple categories.
 
 In summary, binary classification deals with two classes, while multiclass classification deals with more than two.
