@@ -21,3 +21,11 @@ Multiclass Classification:
 - Output: The model outputs one label from a set of multiple categories.
 
 In summary, binary classification deals with two classes, while multiclass classification deals with more than two.
+
+--- 
+
+Logistic regression is a technique used to predict which category something belongs to based on its features. Instead of giving a straight number, it estimates the chance that an item falls into a particular category.
+
+For example, if you're trying to predict whether an email is spam or not, logistic regression will give you a probability between 0 and 1. If the probability is closer to 1, the email is more likely to be spam. If it's closer to 0, it's more likely to be not spam.
+
+In summary, logistic regression helps you decide between different categories by predicting probabilities and is especially useful for binary outcomes or multiple categories.
