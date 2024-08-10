@@ -29,3 +29,9 @@ Logistic regression is a technique used to predict which category something belo
 For example, if you're trying to predict whether an email is spam or not, logistic regression will give you a probability between 0 and 1. If the probability is closer to 1, the email is more likely to be spam. If it's closer to 0, it's more likely to be not spam.
 
 In summary, logistic regression helps you decide between different categories by predicting probabilities and is especially useful for binary outcomes or multiple categories.
+
+
+![image](https://github.com/user-attachments/assets/55abc22e-82e1-4731-a25f-d80d5bb94caa)
+
+
+
