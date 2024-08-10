@@ -10,9 +10,9 @@ The key difference between binary classification and multiclass classification l
 
 **Binary Classification:
 
-**Definition: Involves predicting one of two possible classes.**
-Example: Classifying emails as either "spam" or "not spam."
-Output: The model outputs one of two possible labels.
+-Definition: Involves predicting one of two possible classes.
+-Example: Classifying emails as either "spam" or "not spam."
+-Output: The model outputs one of two possible labels.
 
 Multiclass Classification:
 
