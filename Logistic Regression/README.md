@@ -1,5 +1,20 @@
 # Logistic Regression 
 
+
+
+Regression is about predicting a number. For example, if you want to estimate the price of a house based on its features (like size, location, and number of bedrooms), regression helps you come up with a continuous value.
+
+Classification is about predicting categories or labels. For instance, if you want to decide whether an email is spam or not, classification assigns the email to one of the categories (spam or not spam).
+
+
+Difference:
+
+- Regression deals with continuous outcomes (e.g., predicting temperature, sales amounts).
+- Classification deals with discrete outcomes (e.g., categorizing images, predicting whether a loan will default).
+
+So, if your prediction involves a specific number, you're dealing with regression. If it involves sorting things into categories, you're dealing with classification.
+
+
 ### classification 
 
 Classification is a type of machine learning task where the goal is to assign input data to one of several predefined categories or classes. For example, classifying emails as "spam" or "not spam" is a classification problem.
