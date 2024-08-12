@@ -28,6 +28,9 @@ model.fit(x_train, y_train)
 acc = model.score(x_test, y_test)
 print(acc)
 
+
+# Below code is just for understanding
+"""
 predicted = model.predict(x_test)
 names = ["unacc", "acc", "good", "vgood"]
 print(predicted)
@@ -36,3 +39,4 @@ for x in range(len(predicted)):
     print("Predicted: ", names[predicted[x]], "Data: ", x_test[x], "Actual: ", names[y_test[x]])
     n = model.kneighbors([x_test[x]], 9, True)
     print("N: ", n)
+"""    
