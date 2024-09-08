@@ -1,6 +1,6 @@
 ## Reinforcement learning
 
-[Visit Youtube](https://www.youtube.com/watch?v=2iF9PRriA7w)
+[Visit Youtube => Markov Decision Process ](https://www.youtube.com/watch?v=2iF9PRriA7w)
 
 A Markov Decision Process (MDP) is a way to model decision-making in situations where you have to make choices and the outcomes are uncertain. It helps you figure out the best decisions to make over time to maximize rewards.
 
@@ -14,4 +14,3 @@ Key Parts:
 
 The "Markov" part means that what happens next only depends on where you are right now, not on how you got there. This makes the decision-making process easier because you just need to focus on the current situation.
 
-https://www.youtube.com/watch?v=2iF9PRriA7w
