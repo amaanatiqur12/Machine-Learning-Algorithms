@@ -13,6 +13,8 @@ Key Parts:
 
 The "Markov" part means that what happens next only depends on where you are right now, not on how you got there. This makes the decision-making process easier because you just need to focus on the current situation.
 
+### Exploration vs Exploitation
+
 Exploration:
 Exploration means trying new actions to discover more about the environment.
 The agent takes actions that it hasn't tried enough or doesn't know much about, even if those actions might not give the best reward at the moment.
@@ -31,4 +33,21 @@ Exploitation focuses on immediate rewards, but if you only exploit, you might mi
 Exploration sacrifices immediate rewards for the chance of finding something better, but too much exploration wastes time on bad choices.
 
 In RL, the agent needs a balance between exploration and exploitation to learn efficiently. Early on, it may explore more to learn about its environment, but as it gains more knowledge, it exploits more to maximize its rewards.
+
+
+### policy
+
+In reinforcement learning, a policy is the strategy or rule that an agent follows to decide which action to take in a given state. It essentially guides the agent's behavior in the environment.
+
+Key Points:
+Deterministic Policy: A policy that always chooses a specific action for a given state.
+
+Example: If the agent is in state A, it always takes action X.
+Stochastic Policy: A policy that assigns probabilities to actions, meaning the agent might take different actions in the same state based on those probabilities.
+
+Example: If the agent is in state A, it might take action X with a 70% chance and action Y with a 30% chance.
+Goal of a Policy:
+The goal of reinforcement learning is to find an optimal policy, which is a policy that helps the agent maximize its total rewards over time.
+
+In simple terms, a policy tells the agent, "When you're in this situation (state), do this (action)."
 
