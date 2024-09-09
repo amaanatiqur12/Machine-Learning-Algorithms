@@ -11,6 +11,24 @@ Key Parts:
 4. Rewards: For every action you take, you get some immediate feedback or score (reward).
 5. Goal: The goal is to choose actions in a way that gives you the highest total reward over time.
 
-
 The "Markov" part means that what happens next only depends on where you are right now, not on how you got there. This makes the decision-making process easier because you just need to focus on the current situation.
+
+Exploration:
+Exploration means trying new actions to discover more about the environment.
+The agent takes actions that it hasn't tried enough or doesn't know much about, even if those actions might not give the best reward at the moment.
+The goal is to gather more information about the environment to find potentially better rewards in the future.
+Example:
+Imagine you're at a new restaurant with a menu full of dishes you've never tried. You could explore by trying a dish you haven’t eaten before. It might be amazing, but it’s a risk since you don’t know if you’ll like it.
+
+Exploitation:
+Exploitation means using the knowledge the agent already has to choose the best-known action, which is expected to give the highest reward based on past experience.
+The agent is focused on maximizing the immediate reward by picking the most rewarding action it has learned so far.
+Example:
+At the same restaurant, if you order a dish you’ve had before and know you like, you are exploiting your knowledge. You are not taking a risk, but you also miss out on discovering something new.
+
+The Dilemma:
+Exploitation focuses on immediate rewards, but if you only exploit, you might miss out on better options.
+Exploration sacrifices immediate rewards for the chance of finding something better, but too much exploration wastes time on bad choices.
+
+In RL, the agent needs a balance between exploration and exploitation to learn efficiently. Early on, it may explore more to learn about its environment, but as it gains more knowledge, it exploits more to maximize its rewards.
 
