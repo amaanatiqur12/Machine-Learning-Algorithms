@@ -1,4 +1,6 @@
-# Logistic Regression 
+
+
+# Logistic Regression (logistic regression is actually used for classification tasks, not regression. The term “regression” comes from the fact that it originated as a statistical method for estimating probabilities) 
 
 
 
